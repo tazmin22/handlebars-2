@@ -1,0 +1,24 @@
+<div>
+    <h1> Binvenidos a real time {{name}} </h1>
+
+</div>
+
+<ul id="products">
+</ul>
+
+{{#each products}}
+  <li>
+    <a href="/product/{{id}}">
+      {{title}}
+    </a>
+    <p>{{description}}</p>
+    <p>{{price}}</p>
+    <p>{{thumbnail}}</p>
+    <p>{{code}}</p>
+    <p>{{stock}}</p>
+  </li>
+{{/each}}
+
+
+<script src="/socket.io/socket.io.js" ></script>
+<script src="/js/index.js" ></script>

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "producto 1",
+    "description": "Una buena descripcion",
+    "price": "110",
+    "thumbnail": "https://pbs.twimg.com/media/EqQyddcW8AEP5ur.jpg",
+    "code": "1",
+    "stock": "10"
+  },
+  {
+    "id": 2,
+    "title": "producto 2",
+    "description": "description",
+    "price": "price",
+    "thumbnail": "thumbnail",
+    "code": "code",
+    "stock": "stock"
+  },
+  {
+    "id": 3,
+    "title": "producto 3",
+    "description": "una buena descripcion",
+    "price": 123,
+    "thumbnail": "sin imagen",
+    "code": 3,
+    "stock": 3
+  },
+  {
+    "id": 4,
+    "title": "producto 4",
+    "description": "description",
+    "price": "price",
+    "thumbnail": "thumbnail",
+    "code": "code",
+    "stock": "stock"
+  },
+  {
+    "id": 5,
+    "title": "producto 5",
+    "description": "description",
+    "price": "price",
+    "thumbnail": "thumbnail",
+    "code": "code",
+    "stock": "stock"
+  },
+  {
+    "id": 6,
+    "title": "producto 6",
+    "description": "una buena descripcion",
+    "price": 123,
+    "thumbnail": "sin imagen",
+    "code": 3,
+    "stock": 3
+  },
+  {
+    "id": 7,
+    "title": "producto 7",
+    "description": "description",
+    "price": "price",
+    "thumbnail": "thumbnail",
+    "code": "code",
+    "stock": "stock"
+  },
+  {
+    "id": 8,
+    "title": "producto 8",
+    "description": "description",
+    "price": "price",
+    "thumbnail": "thumbnail",
+    "code": "code",
+    "stock": "stock"
+  },
+  {
+    "id": 9,
+    "title": "producto 9",
+    "description": "una buena descripcion",
+    "price": 123,
+    "thumbnail": "sin imagen",
+    "code": 3,
+    "stock": 3
+  }
+]
